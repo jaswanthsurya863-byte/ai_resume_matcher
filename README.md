@@ -11,7 +11,7 @@ An AI-powered web application that analyzes resumes against job descriptions and
 
 ## 📸 App Preview
 
-![App Screenshot](screenshot.png)
+![App Screenshot](screeenshot.png)
 
 ---
 
